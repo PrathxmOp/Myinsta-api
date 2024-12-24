@@ -1,0 +1,21 @@
+{
+  "status": "success",
+  "version": "2.1.0",
+  "update_required": true,
+  "update_url": "https://example.com/update/app-v2.1.0.apk",
+  "release_notes": {
+    "new_features": [
+      "Improved user interface.",
+      "Faster app startup."
+    ],
+    "bug_fixes": [
+      "Fixed crashes on startup.",
+      "Resolved sync issues."
+    ]
+  },
+  "readme": {
+    "installation": "Download the update from the link and follow the on-screen instructions.",
+    "known_issues": "Some older devices may experience slow performance. Fix coming soon.",
+    "contact": "For support, email us at support@example.com."
+  }
+}
